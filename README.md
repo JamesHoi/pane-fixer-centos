@@ -1,6 +1,6 @@
 # pane-fixer-centos
-亲测在Centos7.5环境下有效  
-csdn博客：  
+修复Centos图形界面中文乱码,亲测在Centos7.5环境下有效  
+csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 
 如何修复  
 ----------
