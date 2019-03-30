@@ -4,7 +4,7 @@ csdn博客：
 
 如何修复  
 ----------
-`git clone https://github.com/JamesHoi/electron-ssr-0.2.6-autoinstall.git`  
+`git clone https://github.com/JamesHoi/pane-fixer-centos.git`  
 `cd electron-ssr-0.2.6-autoinstall`  
 `chmod +x install.sh`  
 `./install.sh`  
