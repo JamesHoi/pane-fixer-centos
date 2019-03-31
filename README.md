@@ -28,6 +28,8 @@ csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 将文件内容修改为 `LANG="en_US.UTF-8"`  
 `source /etc/sysconfig/i18n`  
 `vim /etc/locale.conf`  
-将文件内容修改为  `#LANG="en_US.UTF-8"  #LANGUAGE="en_US:en"`
+将文件内容修改为  
+`LANG="en_US.UTF-8"`  
+`LANGUAGE="en_US:en"`  
 
 
