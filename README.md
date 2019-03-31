@@ -5,7 +5,7 @@ csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 如何修复  
 ----------
 `git clone https://github.com/JamesHoi/pane-fixer-centos.git`  
-`cd electron-ssr-0.2.6-autoinstall`  
+`cd pane-fixer-centos`  
 `chmod +x install.sh`  
 `./install.sh`  
 将以上命令输入到centos终端即可  
