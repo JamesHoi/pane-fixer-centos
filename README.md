@@ -22,6 +22,7 @@ csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 `source /etc/sysconfig/i18n`  
 `vim /etc/locale.conf`  
 将文件内容修改为  `LANG="zh_CN.UTF-8"`  
+然后重启一下`reboot`  
   
 ### 如何将系统语言改为英文？  
 `vim /etc/sysconfig/i18n`  
@@ -31,5 +32,6 @@ csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 将文件内容修改为  
 `LANG="en_US.UTF-8"`  
 `LANGUAGE="en_US:en"`  
+然后重启一下`reboot`  
 
 
