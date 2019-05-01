@@ -9,6 +9,7 @@ csdn博客：https://blog.csdn.net/baidu_38635190/article/details/88922732
 `chmod +x install.sh`  
 `./install.sh`  
 将以上命令输入到centos终端即可  
+(总共25M左右，等待时间可能较长)
 
 题外话（个人笔记）
 --------
